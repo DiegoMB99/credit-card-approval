@@ -2,6 +2,7 @@
 *.csv
 *.zip
 *.pkl
+*.html
 
 # Virtual environment
 venv/
