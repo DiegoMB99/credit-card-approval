@@ -227,4 +227,4 @@ curl -X POST "https://credit-card-approval-842429976001.europe-west1.run.app/pre
 ## 👤 Author
 
 **Diego MB** — Data Scientist  
-[GitHub](https://github.com/DiegoMB99) · [LinkedIn](https://linkedin.com/in/diegomb)
+[GitHub](https://github.com/DiegoMB99) · [LinkedIn](https://www.linkedin.com/in/diego-moran-becares-b53308151/)
